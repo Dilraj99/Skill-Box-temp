@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev & (cd .. && nodemon index.js)",
-    "build": "next build  & (cd .. && nodemon index.js)",
+    "build": "next build",
     "start": "next start & (cd .. && nodemon index.js)",
     "export": "next export"
   },
