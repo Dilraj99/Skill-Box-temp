@@ -3,7 +3,7 @@ import { Button, TextField, Grid, Typography, Paper, Container } from '@material
 import { makeStyles } from '@material-ui/core/styles';
 import { CopyToClipboard } from 'react-copy-to-clipboard';
 import {Assignment, Phone, PhoneDisabled } from '@material-ui/icons';
-import { SocketContext } from '../SocketContext'
+import { SocketContext } from './SocketContext'
 import Link from 'next/Link'
 
 

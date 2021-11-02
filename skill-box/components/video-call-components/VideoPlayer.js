@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import { Grid, Typography, Paper } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core';
-import { SocketContext } from '../SocketContext';
+import { SocketContext } from './SocketContext';
 
 
 //css styles for our VideoPlayer

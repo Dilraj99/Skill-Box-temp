@@ -73,7 +73,7 @@ function Header() {
     {/* Video Call Button */}
         <button type="button" className=" h-10 w-10 mr-1 rounded-full flex items-center justify-center bg-transparent hover:bg-gray-100">
           
-           <Link href="video-index">
+           <Link href="/video-index">
           <VideoCameraIcon className="h-8" />
         </Link>
         </button>

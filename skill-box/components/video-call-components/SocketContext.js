@@ -41,9 +41,6 @@ const [callEnded, setCallEnded] = useState(false);
 //state for user we are call to
 const [name, setName] = useState('');
 
-
-
-
 //creating a useRef to populate our video stream
 const myVideo = useRef();
 //creating a useRef to populate participant's video stream
@@ -164,4 +161,4 @@ return (
 )
 }
 
-export { ContextProvider, SocketContext };
+export default { ContextProvider, SocketContext };

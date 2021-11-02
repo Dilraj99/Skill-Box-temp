@@ -1,10 +1,8 @@
 //Required Imports
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
-import { ContextProvider } from './SocketContext';
-
-
+import App from '../components/video-call-components/App';
+import { ContextProvider } from '../components/video-call-components/SocketContext';
 import Head from 'next/head'
 import Banner from '../components/Banner'
 import Footer from '../components/Footer'

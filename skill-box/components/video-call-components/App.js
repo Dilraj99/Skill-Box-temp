@@ -4,9 +4,9 @@ import { Typography, AppBar } from '@material-ui/core';
 import {makeStyles} from '@material-ui/core/styles';
 
 //importing component
-import VideoPlayer from './video-call-components/VideoPlayer';
-import Options from './video-call-components/options';
-import Notifications from './video-call-components/Notifications';
+import VideoPlayer from './VideoPlayer';
+import Options from './Options';
+import Notifications from './Notifications';
 
 //This where our UI styles for the app will go.
 const useStyles = makeStyles((theme) => ({
