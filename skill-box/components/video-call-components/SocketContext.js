@@ -161,4 +161,4 @@ return (
 )
 }
 
-export default { ContextProvider, SocketContext };
+export { ContextProvider, SocketContext };
