@@ -3,7 +3,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
+    "start": "next start & (cd .. && nodemon index.js)",
     "export": "next export"
   },
   "dependencies": {
