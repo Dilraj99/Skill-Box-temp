@@ -1,0 +1,56 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/aKGDjpSfeJWn8oEmvX_I1/_buildManifest.js",
+    "static/aKGDjpSfeJWn8oEmvX_I1/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-90a60b87fd0d5fc150f2.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-8d15616dad332ac01c02.js",
+      "static/chunks/17-de29a0d5ccb10d5d72b3.js",
+      "static/chunks/pages/index-a977949e2641b1e65936.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-90a60b87fd0d5fc150f2.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-8d15616dad332ac01c02.js",
+      "static/css/e6c5deb07484a6d9be9a.css",
+      "static/chunks/pages/_app-2820544c4add2519e635.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-90a60b87fd0d5fc150f2.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-8d15616dad332ac01c02.js",
+      "static/chunks/pages/_error-737a04e9a0da63c9d162.js"
+    ],
+    "/chatpage": [
+      "static/chunks/webpack-90a60b87fd0d5fc150f2.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-8d15616dad332ac01c02.js",
+      "static/chunks/17-de29a0d5ccb10d5d72b3.js",
+      "static/chunks/pages/chatpage-65da6b5db9fc62c1ce9c.js"
+    ],
+    "/profile": [
+      "static/chunks/webpack-90a60b87fd0d5fc150f2.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-8d15616dad332ac01c02.js",
+      "static/chunks/17-de29a0d5ccb10d5d72b3.js",
+      "static/chunks/pages/profile-1003b6a666c3d22168ac.js"
+    ],
+    "/video-index": [
+      "static/chunks/webpack-90a60b87fd0d5fc150f2.js",
+      "static/chunks/framework-2191d16384373197bc0a.js",
+      "static/chunks/main-8d15616dad332ac01c02.js",
+      "static/chunks/17-de29a0d5ccb10d5d72b3.js",
+      "static/chunks/833-475ebf1ae044d47dce6b.js",
+      "static/chunks/pages/video-index-bccc16845c85ebaf6024.js"
+    ]
+  },
+  "ampFirstPages": []
+}
