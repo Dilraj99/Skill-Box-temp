@@ -18,7 +18,7 @@ const SocketContext = createContext();
 
 //initial instance of socket.io
 //once we deploy our app, we will replace the localhost with the full address of our deployed app.
-const socket = io('https://skillbox-videocall-backend.vercel.app'); 
+const socket = io('https://skill-box-backend.vercel.app'); 
 
 
 {/*
